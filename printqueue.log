@@ -649,3 +649,108 @@
 [2025-04-23 08:36:10] 🗑️ Deleted PDF for ticket ID 176
 [2025-04-23 08:36:11] ✅ Marked ticket ID 176 as printed
 [2025-04-23 08:36:11] ✅ PRINT FINISHED for Waasmunster
+[2025-04-23 08:57:13] ℹ️ No tickets to print for Waasmunster.
+[2025-04-23 09:17:05] ℹ️ No tickets to print for Waasmunster.
+[2025-04-23 10:16:37] ℹ️ No tickets to print for Waasmunster.
+[2025-04-23 10:23:53] 📄 PDF created for ticket ID 176
+[2025-04-23 10:23:53] 🖨️ Sent to printer: C:\pdf versie\KiemkrachtPrintAgent\klantenkaartPrinter\foto\ticket_176.pdf
+[2025-04-23 10:23:55] 🗑️ Deleted PDF for ticket ID 176
+[2025-04-23 10:24:02] ✅ Marked ticket ID 176 as printed
+[2025-04-23 10:24:02] ✅ PRINT FINISHED for Waasmunster
+
+[2025-04-23 10:28:59] 📄 PDF created for ticket ID 176
+[2025-04-23 10:28:59] 🖨️ Sent to printer: C:\pdf versie\KiemkrachtPrintAgent\klantenkaartPrinter\foto\ticket_176.pdf
+[2025-04-23 10:29:01] 🗑️ Deleted PDF for ticket ID 176
+[2025-04-23 10:29:02] ✅ Marked ticket ID 176 as printed
+[2025-04-23 10:29:02] ✅ PRINT FINISHED for Waasmunster
+[2025-04-23 10:32:09] 📄 PDF created for ticket ID 174
+[2025-04-23 10:32:09] 🖨️ Sent to printer: C:\pdf versie\KiemkrachtPrintAgent\klantenkaartPrinter\foto\ticket_174.pdf
+[2025-04-23 10:32:11] 🗑️ Deleted PDF for ticket ID 174
+[2025-04-23 10:32:11] ✅ Marked ticket ID 174 as printed
+[2025-04-23 10:32:14] 📄 PDF created for ticket ID 175
+[2025-04-23 10:32:14] 🖨️ Sent to printer: C:\pdf versie\KiemkrachtPrintAgent\klantenkaartPrinter\foto\ticket_175.pdf
+[2025-04-23 10:32:16] 🗑️ Deleted PDF for ticket ID 175
+[2025-04-23 10:32:17] ✅ Marked ticket ID 175 as printed
+[2025-04-23 10:32:17] ✅ PRINT FINISHED for Waasmunster
+[2025-04-23 11:39:46] 📄 PDF created for ticket ID 176
+[2025-04-23 11:39:46] 🖨️ Sent to printer: C:\pdf versie\KiemkrachtPrintAgent\klantenkaartPrinter\foto\ticket_176.pdf
+[2025-04-23 11:39:48] 🗑️ Deleted PDF for ticket ID 176
+[2025-04-23 11:39:49] ✅ Marked ticket ID 176 as printed
+[2025-04-23 11:39:49] ✅ PRINT FINISHED for Waasmunster
+[2025-04-23 13:11:16] ℹ️ No tickets to print for Waasmunster.
+[2025-04-23 13:24:30] ℹ️ No tickets to print for Waasmunster.
+[2025-04-23 13:26:04] ℹ️ No tickets to print for Waasmunster.
+[2025-04-23 13:28:30] 📄 PDF created for ticket ID 174
+[2025-04-23 13:28:30] 🖨️ Sent to printer: C:\pdf versie\KiemkrachtPrintAgent\klantenkaartPrinter\foto\ticket_174.pdf
+[2025-04-23 13:28:32] 🗑️ Deleted PDF for ticket ID 174
+[2025-04-23 13:28:32] ✅ Marked ticket ID 174 as printed
+[2025-04-23 13:28:35] 📄 PDF created for ticket ID 176
+[2025-04-23 13:28:35] 🖨️ Sent to printer: C:\pdf versie\KiemkrachtPrintAgent\klantenkaartPrinter\foto\ticket_176.pdf
+[2025-04-23 13:28:37] 🗑️ Deleted PDF for ticket ID 176
+[2025-04-23 13:28:37] ✅ Marked ticket ID 176 as printed
+[2025-04-23 13:28:37] ✅ PRINT FINISHED for Waasmunster
+[2025-04-23 13:29:11] 📄 PDF created for ticket ID 176
+[2025-04-23 13:29:11] 🖨️ Sent to printer: C:\pdf versie\KiemkrachtPrintAgent\klantenkaartPrinter\foto\ticket_176.pdf
+[2025-04-23 13:29:13] 🗑️ Deleted PDF for ticket ID 176
+[2025-04-23 13:29:13] ✅ Marked ticket ID 176 as printed
+[2025-04-23 13:29:13] ✅ PRINT FINISHED for Waasmunster
+[2025-04-23 13:38:50] 🟡 PRINT STARTED voor winkel: Waasmunster
+[2025-04-23 13:38:51] ❌ Kan geen verbinding maken met API: https://auth.kiemkracht.org/api/tickets/next?queue=Waasmunster&limit=3&key=G%211wU1a8uUhPj...
+[2025-04-23 13:40:05] 🟡 PRINT STARTED voor winkel: Waasmunster
+[2025-04-23 13:40:05] 📥 API gaf 1 ticket(s) terug.
+[2025-04-23 13:40:11] 📄 PDF aangemaakt voor ticket ID 176
+[2025-04-23 13:40:11] 🖨️ Ticket ID 176 verzonden naar printer
+[2025-04-23 13:40:13] 🗑️ PDF verwijderd voor ticket ID 176
+[2025-04-23 13:40:13] ✅ Ticket ID 176 gemarkeerd als geprint
+[2025-04-23 13:40:13] 🟢 PRINT KLAAR voor winkel: Waasmunster
+[2025-04-23 13:48:44] 🟡 PRINT STARTED voor winkel: Waasmunster
+[2025-04-23 13:48:44] 📥 API gaf 1 ticket(s) terug.
+[2025-04-23 13:48:51] 📄 PDF aangemaakt voor ticket ID 176
+[2025-04-23 13:48:51] 🖨️ Ticket ID 176 verzonden naar printer
+[2025-04-23 13:48:53] 🗑️ PDF verwijderd voor ticket ID 176
+[2025-04-23 13:48:53] ✅ Ticket ID 176 gemarkeerd als geprint
+[2025-04-23 13:48:53] 🟢 PRINT KLAAR voor winkel: Waasmunster
+[2025-04-23 13:54:17] 🟡 PRINT STARTED voor winkel: Waasmunster
+[2025-04-23 13:54:18] 📥 API gaf 1 ticket(s) terug.
+[2025-04-23 13:54:21] 📄 PDF aangemaakt voor ticket ID 176
+[2025-04-23 13:54:21] 🖨️ Ticket ID 176 verzonden naar printer
+[2025-04-23 13:54:23] 🗑️ PDF verwijderd voor ticket ID 176
+[2025-04-23 13:54:23] ✅ Ticket ID 176 gemarkeerd als geprint
+[2025-04-23 13:54:23] 🟢 PRINT KLAAR voor winkel: Waasmunster
+[2025-04-23 13:56:12] 🟡 PRINT STARTED voor winkel: Waasmunster
+[2025-04-23 13:56:13] ℹ️ Geen tickets te printen voor Waasmunster.
+[2025-04-23 13:56:36] 🟡 PRINT STARTED voor winkel: Waasmunster
+[2025-04-23 13:56:36] 📥 API gaf 1 ticket(s) terug.
+[2025-04-23 13:56:39] 📄 PDF aangemaakt voor ticket ID 176
+[2025-04-23 13:56:39] 🖨️ Ticket ID 176 verzonden naar printer
+[2025-04-23 13:56:41] 🗑️ PDF verwijderd voor ticket ID 176
+[2025-04-23 13:56:42] ✅ Ticket ID 176 gemarkeerd als geprint
+[2025-04-23 13:56:42] 🟢 PRINT KLAAR voor winkel: Waasmunster
+[2025-04-23 14:02:51] 🟡 PRINT STARTED voor winkel: Waasmunster
+[2025-04-23 14:02:52] 📥 API gaf 1 ticket(s) terug.
+[2025-04-23 14:03:01] 📄 PDF aangemaakt voor ticket ID 176
+[2025-04-23 14:03:01] 🖨️ Ticket ID 176 verzonden naar printer
+[2025-04-23 14:03:03] 🗑️ PDF verwijderd voor ticket ID 176
+[2025-04-23 14:03:04] ✅ Ticket ID 176 gemarkeerd als geprint
+[2025-04-23 14:03:04] 🟢 PRINT KLAAR voor winkel: Waasmunster
+[2025-04-23 14:10:30] 🟡 PRINT STARTED voor winkel: Waasmunster
+[2025-04-23 14:10:31] 📥 API gaf 2 ticket(s) terug.
+[2025-04-23 14:10:34] 📄 PDF aangemaakt voor ticket ID 175
+[2025-04-23 14:10:34] 🖨️ Ticket ID 175 verzonden naar printer
+[2025-04-23 14:10:36] 🗑️ PDF verwijderd voor ticket ID 175
+[2025-04-23 14:10:36] ✅ Ticket ID 175 gemarkeerd als geprint
+[2025-04-23 14:10:40] 📄 PDF aangemaakt voor ticket ID 176
+[2025-04-23 14:10:40] 🖨️ Ticket ID 176 verzonden naar printer
+[2025-04-23 14:10:42] 🗑️ PDF verwijderd voor ticket ID 176
+[2025-04-23 14:10:43] ✅ Ticket ID 176 gemarkeerd als geprint
+[2025-04-23 14:10:43] 🟢 PRINT KLAAR voor winkel: Waasmunster
+[2025-04-23 14:41:19] 🟡 PRINT STARTED voor winkel: Waasmunster
+[2025-04-23 14:41:33] ℹ️ Geen tickets te printen voor Waasmunster.
+[2025-04-23 14:42:04] 🟡 PRINT STARTED voor winkel: Waasmunster
+[2025-04-23 14:42:05] ℹ️ Geen tickets te printen voor Waasmunster.
+[2025-04-23 14:42:37] 🟡 PRINT STARTED voor winkel: Waasmunster
+[2025-04-23 14:42:38] ℹ️ Geen tickets te printen voor Waasmunster.
+[2025-04-23 14:43:10] 🟡 PRINT STARTED voor winkel: Waasmunster
+[2025-04-23 14:43:11] ℹ️ Geen tickets te printen voor Waasmunster.
+[2025-04-23 14:43:42] 🟡 PRINT STARTED voor winkel: Waasmunster
+[2025-04-23 14:43:43] ℹ️ Geen tickets te printen voor Waasmunster.
