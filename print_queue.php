@@ -6,12 +6,12 @@ use Dompdf\Dompdf;
 use Dompdf\Options;
 
 // === CONFIGURATION ===
-$apiUrl = 'https://yourserver.com/api.php'; // Replace with your actual URL
-$apiKey = 'abc123'; // Replace with your secure API key
-$queueName = 'Waasmunster'; // Store name
+$apiUrl = 'https://yourserver.com/api.php'; // hierkomt het de naam van de api
+$apiKey = 'abc123'; // hier komt de api key voor elke unieke kassa 
+$queueName = 'Waasmunster'; // hier komt de naam van de winkel
 
-$printerName = 'star';
-$sumatraPath = "C:\\Users\\RenierLeenaers\\AppData\\Local\\SumatraPDF\\SumatraPDF.exe";
+$printerName = 'star'; // zet hier de exacte naam van de kassa 
+$sumatraPath = "C:\\Users\\RenierLeenaers\\AppData\\Local\\SumatraPDF\\SumatraPDF.exe"; // zet hier de exacte pad naar sumatrapdf 
 $logFile = __DIR__ . '/printqueue.log';
 $logoPath = __DIR__ . '/logo.png';
 
@@ -20,7 +20,7 @@ function logMessage($msg) {
     file_put_contents($logFile, "[" . date('Y-m-d H:i:s') . "] $msg\n", FILE_APPEND);
 }
 
-// === FETCH TICKETS FROM API ===
+// FETCH TICKETS VAN DE API 
 $url = "$apiUrl?action=next&queue=$queueName&limit=3&key=$apiKey";
 $response = file_get_contents($url);
 $tickets = json_decode($response, true);
@@ -44,7 +44,7 @@ foreach ($tickets as $ticket) {
     $barcodeUrl = "https://barcodeapi.org/api/128/{$barcode}";
     $pdfPath = __DIR__ . "/foto/ticket_{$id}.pdf";
 
-    // === Generate HTML ===
+    //  HTML 
     $html = <<<HTML
 <!DOCTYPE html>
 <html lang="nl">
@@ -105,7 +105,7 @@ HTML;
         logMessage("🗑️ Deleted PDF for ticket ID $id");
     }
 
-    // === MARK TICKET AS PRINTED ===
+    // MARKEER TICKET ALS PRINTED 
     $markUrl = "$apiUrl?action=mark&id=$id&key=$apiKey";
     file_get_contents($markUrl);
     logMessage("✅ Marked ticket ID $id as printed");
