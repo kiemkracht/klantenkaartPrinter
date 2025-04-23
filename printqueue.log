@@ -1,0 +1,644 @@
+[2025-04-16 12:36:56] ✅ Printed ticket ID 169
+[2025-04-16 12:37:02] ✅ Printed ticket ID 174
+[2025-04-16 12:37:07] ✅ Printed ticket ID 175
+[2025-04-16 12:37:12] ✅ Printed ticket ID 176
+[2025-04-16 12:37:19] ✅ Printed ticket ID 177
+[2025-04-16 13:09:15] ❌ Print failed for ID 180: Printer 'Star TSP100 Cutter (TSP143)' is not a valid printer name. Use local port (LPT1, COM1, etc) or smb://computer/printer notation.
+[2025-04-16 13:12:14] ❌ Print failed for ID 183: Printer 'Star TSP100 Cutter (TSP143)' is not a valid printer name. Use local port (LPT1, COM1, etc) or smb://computer/printer notation.
+[2025-04-16 13:12:30] ❌ Print failed for ID 183: Printer 'Star TSP100 Cutter (TSP143)' is not a valid printer name. Use local port (LPT1, COM1, etc) or smb://computer/printer notation.
+[2025-04-16 13:17:17] 🟡 Script started for store: Waasmunster
+[2025-04-16 13:17:17] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 13:17:17] ❌ Print failed for ID 183: Printer 'Star TSP100 Cutter (TSP143)' is not a valid printer name. Use local port (LPT1, COM1, etc) or smb://computer/printer notation.
+[2025-04-16 13:17:17] 🟢 Script finished for store: Waasmunster
+[2025-04-16 13:17:51] 🟡 Script started for store: Waasmunster
+[2025-04-16 13:17:51] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 13:17:51] ❌ Print failed for ID 183: Printer 'Star TSP100 Cutter (TSP143)' is not a valid printer name. Use local port (LPT1, COM1, etc) or smb://computer/printer notation.
+[2025-04-16 13:17:51] 🟢 Script finished for store: Waasmunster
+[2025-04-16 13:21:20] 🟡 Script started for store: Waasmunster
+[2025-04-16 13:21:20] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 13:21:20] ❌ Print failed for ID 183: Printer 'Star TSP100 Cutter (TSP143)' is not a valid printer name. Use local port (LPT1, COM1, etc) or smb://computer/printer notation.
+[2025-04-16 13:21:20] 🟢 Script finished for store: Waasmunster
+[2025-04-16 13:21:45] 🟡 Script started for store: Waasmunster
+[2025-04-16 13:21:45] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 13:21:45] ❌ Print failed for ID 183: Printer 'Star TSP100 Cutter (TSP143)' is not a valid printer name. Use local port (LPT1, COM1, etc) or smb://computer/printer notation.
+[2025-04-16 13:21:45] 🟢 Script finished for store: Waasmunster
+[2025-04-16 13:23:05] 🟡 Script started for store: Waasmunster
+[2025-04-16 13:23:05] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 13:23:05] ❌ Print failed for ID 183: Failed to copy file to printer
+[2025-04-16 13:23:05] 🟢 Script finished for store: Waasmunster
+[2025-04-16 13:25:39] 🟡 Script started for store: Waasmunster
+[2025-04-16 13:25:40] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 13:25:40] ❌ Print failed for ID 183: Failed to copy file to printer
+[2025-04-16 13:25:40] 🟢 Script finished for store: Waasmunster
+[2025-04-16 13:27:43] 🟡 Script started for store: Waasmunster
+[2025-04-16 13:27:44] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 13:27:44] ❌ Print failed for ID 183: Failed to copy file to printer
+[2025-04-16 13:27:44] 🟢 Script finished for store: Waasmunster
+[2025-04-16 13:29:52] ❌ Print failed for ID 183: Printer 'Star TSP100 Cutter (TSP143)' is not a valid printer name. Use local port (LPT1, COM1, etc) or smb://computer/printer notation.
+[2025-04-16 13:30:14] ❌ Print failed for ID 183: Failed to copy file to printer
+[2025-04-16 13:32:48] 🟡 Script started for store: Waasmunster
+[2025-04-16 13:32:48] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 13:32:48] ❌ Print failed for ID 183: Failed to copy file to printer
+[2025-04-16 13:32:48] 🟢 Script finished for store: Waasmunster
+[2025-04-16 13:34:44] 🟡 Script started for store: Waasmunster
+[2025-04-16 13:34:44] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 13:34:44] ❌ Print failed for ID 183: Failed to copy file to printer
+[2025-04-16 13:34:44] 🟢 Script finished for store: Waasmunster
+[2025-04-16 13:37:48] 🟡 Script started for store: Waasmunster
+[2025-04-16 13:37:48] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 13:37:48] ❌ Print failed for ID 183: Failed to copy file to printer
+[2025-04-16 13:37:48] 🟢 Script finished for store: Waasmunster
+[2025-04-16 13:42:18] 🟡 Script started for store: Waasmunster
+[2025-04-16 13:42:18] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 13:42:18] ❌ Print failed for ID 183: Failed to copy file to printer
+[2025-04-16 13:42:18] 🟢 Script finished for store: Waasmunster
+[2025-04-16 13:44:00] 🟡 Script started for store: Waasmunster
+[2025-04-16 13:44:00] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 13:44:00] ❌ Print failed for ID 183: Printer 'Star TSP100 Cutter (TSP143)' is not a valid printer name. Use local port (LPT1, COM1, etc) or smb://computer/printer notation.
+[2025-04-16 13:44:00] 🟢 Script finished for store: Waasmunster
+[2025-04-16 13:47:29] 🟡 Script started for store: Waasmunster
+[2025-04-16 13:47:29] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 13:47:29] ❌ Print failed for ID 183: Failed to copy file to printer
+[2025-04-16 13:47:29] 🟢 Script finished for store: Waasmunster
+[2025-04-16 13:50:10] 🟡 Script started for store: Waasmunster
+[2025-04-16 13:50:10] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 13:50:10] ❌ Print failed for ID 183: Printer '\\IT-20-002\Star' is not a valid printer name. Use local port (LPT1, COM1, etc) or smb://computer/printer notation.
+[2025-04-16 13:50:10] 🟢 Script finished for store: Waasmunster
+[2025-04-16 13:53:38] 🟡 Script started for store: Waasmunster
+[2025-04-16 13:53:38] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 13:53:38] ❌ Print failed for ID 183: Failed to copy file to printer
+[2025-04-16 13:53:38] 🟢 Script finished for store: Waasmunster
+[2025-04-16 13:54:41] 🟡 Script started for store: Waasmunster
+[2025-04-16 13:54:41] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 13:54:41] ❌ Print failed for ID 183: Failed to copy file to printer
+[2025-04-16 13:54:41] 🟢 Script finished for store: Waasmunster
+[2025-04-16 13:55:33] 🟡 Script started for store: Waasmunster
+[2025-04-16 13:55:33] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 13:55:42] 🟡 Script started for store: Waasmunster
+[2025-04-16 13:55:43] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 13:55:43] ❌ Print failed for ID 183: Failed to copy file to printer
+[2025-04-16 13:55:43] 🟢 Script finished for store: Waasmunster
+[2025-04-16 13:56:50] 🟡 Script started for store: Waasmunster
+[2025-04-16 13:56:50] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 13:56:50] ❌ Print failed for ID 183: Failed to copy file to printer
+[2025-04-16 13:56:50] 🟢 Script finished for store: Waasmunster
+[2025-04-16 13:59:36] 🟡 Script started for store: Waasmunster
+[2025-04-16 13:59:37] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 13:59:37] ✅ Printed ticket ID 183
+[2025-04-16 13:59:37] 🟢 Script finished for store: Waasmunster
+[2025-04-16 14:00:17] 🟡 Script started for store: Waasmunster
+[2025-04-16 14:00:18] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 14:00:18] ✅ Printed ticket ID 183
+[2025-04-16 14:00:18] 🟢 Script finished for store: Waasmunster
+[2025-04-16 14:11:09] 🟡 Script started for store: Waasmunster
+[2025-04-16 14:11:09] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 14:11:10] ❌ Print failed for ID 183: Failed to copy file to printer
+[2025-04-16 14:11:10] 🟢 Script finished for store: Waasmunster
+[2025-04-16 14:11:26] 🟡 Script started for store: Waasmunster
+[2025-04-16 14:11:26] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 14:11:27] ✅ Printed ticket ID 183
+[2025-04-16 14:11:27] 🟢 Script finished for store: Waasmunster
+[2025-04-16 14:13:22] 🟡 Script started for store: Waasmunster
+[2025-04-16 14:13:22] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 14:13:23] ✅ Printed ticket ID 183
+[2025-04-16 14:13:23] 🟢 Script finished for store: Waasmunster
+[2025-04-16 14:16:18] 🟡 Script started for store: Waasmunster
+[2025-04-16 14:16:19] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 14:16:19] ❌ Print failed for ID 183: Failed to copy file to printer
+[2025-04-16 14:16:19] 🟢 Script finished for store: Waasmunster
+[2025-04-16 14:16:32] 🟡 Script started for store: Waasmunster
+[2025-04-16 14:16:32] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 14:16:32] ✅ Printed ticket ID 183
+[2025-04-16 14:16:32] 🟢 Script finished for store: Waasmunster
+[2025-04-16 14:21:37] 🟡 Script started for store: Waasmunster
+[2025-04-16 14:21:38] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 14:21:48] 🟡 Script started for store: Waasmunster
+[2025-04-16 14:21:48] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 14:21:53] 🟡 Script started for store: Waasmunster
+[2025-04-16 14:21:53] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 14:22:37] 🟡 Script started for store: Waasmunster
+[2025-04-16 14:22:37] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 14:22:59] 🟡 Script started for store: Waasmunster
+[2025-04-16 14:22:59] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 14:22:59] ❌ Print failed for ID 183: Failed to copy file to printer
+[2025-04-16 14:22:59] 🟢 Script finished for store: Waasmunster
+[2025-04-16 14:23:57] 🟡 Script started for store: Waasmunster
+[2025-04-16 14:23:57] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 14:24:05] 🟡 Script started for store: Waasmunster
+[2025-04-16 14:24:05] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 14:24:05] ❌ Print failed for ID 183: Failed to copy file to printer
+[2025-04-16 14:24:05] 🟢 Script finished for store: Waasmunster
+[2025-04-16 14:24:58] 🟡 Script started for store: Waasmunster
+[2025-04-16 14:24:58] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 14:24:58] ✅ Printed ticket ID 183
+[2025-04-16 14:24:58] 🟢 Script finished for store: Waasmunster
+[2025-04-16 14:36:15] 🟡 Script started for store: Waasmunster
+[2025-04-16 14:36:15] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 14:36:16] ❌ Print failed for ID 183: Failed to copy file to printer
+[2025-04-16 14:36:16] 🟢 Script finished for store: Waasmunster
+[2025-04-16 14:36:39] 🟡 Script started for store: Waasmunster
+[2025-04-16 14:36:39] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 14:36:39] ✅ Printed ticket ID 183
+[2025-04-16 14:36:39] 🟢 Script finished for store: Waasmunster
+[2025-04-16 14:37:21] 🟡 Script started for store: Waasmunster
+[2025-04-16 14:37:21] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 14:37:21] ✅ Printed ticket ID 183
+[2025-04-16 14:37:21] 🟢 Script finished for store: Waasmunster
+[2025-04-16 14:37:47] 🟡 Script started for store: Waasmunster
+[2025-04-16 14:37:47] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 14:37:47] ✅ Printed ticket ID 183
+[2025-04-16 14:37:47] 🟢 Script finished for store: Waasmunster
+[2025-04-16 14:39:27] 🟡 Script started for store: Waasmunster
+[2025-04-16 14:39:27] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 14:39:28] ✅ Printed ticket ID 183
+[2025-04-16 14:39:28] 🟢 Script finished for store: Waasmunster
+[2025-04-16 14:41:56] 🟡 Script started for store: Waasmunster
+[2025-04-16 14:41:56] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 14:41:57] ✅ Printed ticket ID 183
+[2025-04-16 14:41:57] 🟢 Script finished for store: Waasmunster
+[2025-04-16 14:47:42] 🟡 Script started for store: Waasmunster
+[2025-04-16 14:47:42] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 14:48:23] 🟡 Script started for store: Waasmunster
+[2025-04-16 14:48:23] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 14:52:43] 🟡 Script started for store: Waasmunster
+[2025-04-16 14:52:43] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 14:55:50] 🟡 Script started for store: Waasmunster
+[2025-04-16 14:55:50] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 14:56:07] 🟡 Script started for store: Waasmunster
+[2025-04-16 14:56:07] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 14:57:53] 🟡 Script started for store: Waasmunster
+[2025-04-16 14:57:53] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 14:59:18] 🟡 Script started for store: Waasmunster
+[2025-04-16 14:59:19] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 15:02:40] 🟡 Script started for store: Waasmunster
+[2025-04-16 15:02:40] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 15:07:50] 🟡 Script started for store: Waasmunster
+[2025-04-16 15:07:50] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 15:07:51] ❌ Print failed for ID 183: The Fpdf writer requires FPDF as dependency but the class "\FPDF" couldn't be found.
+[2025-04-16 15:07:51] 🟢 Script finished for store: Waasmunster
+[2025-04-16 15:09:27] 🟡 Script started for store: Waasmunster
+[2025-04-16 15:09:27] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 15:09:27] ❌ Print failed for ID 183: The Fpdf writer requires FPDF as dependency but the class "\FPDF" couldn't be found.
+[2025-04-16 15:09:27] 🟢 Script finished for store: Waasmunster
+[2025-04-16 15:10:35] 🟡 Script started for store: Waasmunster
+[2025-04-16 15:10:36] 🔍 Found 2 unprinted tickets for store Waasmunster
+[2025-04-16 15:10:36] ❌ Print failed for ID 183: The Fpdf writer requires FPDF as dependency but the class "\FPDF" couldn't be found.
+[2025-04-16 15:10:36] ❌ Print failed for ID 184: The Fpdf writer requires FPDF as dependency but the class "\FPDF" couldn't be found.
+[2025-04-16 15:10:36] 🟢 Script finished for store: Waasmunster
+[2025-04-16 15:14:24] 🟡 Script started for store: Waasmunster
+[2025-04-16 15:14:26] 🔍 Found 2 unprinted tickets for store Waasmunster
+[2025-04-16 15:14:26] ❌ Print failed for ID 183: The Fpdf writer requires FPDF as dependency but the class "\FPDF" couldn't be found.
+[2025-04-16 15:14:26] ❌ Print failed for ID 184: The Fpdf writer requires FPDF as dependency but the class "\FPDF" couldn't be found.
+[2025-04-16 15:14:26] 🟢 Script finished for store: Waasmunster
+[2025-04-16 15:17:04] 🟡 Script started for store: Waasmunster
+[2025-04-16 15:17:04] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 15:17:04] ❌ Print failed for ID 183: Failed to load image.
+[2025-04-16 15:17:04] 🟢 Script finished for store: Waasmunster
+[2025-04-16 15:20:05] 🟡 Script started for store: Waasmunster
+[2025-04-16 15:20:05] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 15:22:01] 🟡 Script started for store: Waasmunster
+[2025-04-16 15:22:02] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 15:22:03] ❌ Print failed for ID 183: The Fpdf writer requires FPDF as dependency but the class "\FPDF" couldn't be found.
+[2025-04-16 15:22:03] 🟢 Script finished for store: Waasmunster
+[2025-04-16 15:24:08] 🟡 Script started for store: Waasmunster
+[2025-04-16 15:24:08] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-16 15:24:08] ❌ Print failed for ID 183: The Fpdf writer requires FPDF as dependency but the class "\FPDF" couldn't be found.
+[2025-04-16 15:24:08] 🟢 Script finished for store: Waasmunster
+[2025-04-17 07:18:40] 🟡 Script started for store: Waasmunster
+[2025-04-17 07:18:40] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-17 07:18:44] ❌ Print failed for ID 183: The Fpdf writer requires FPDF as dependency but the class "\FPDF" couldn't be found.
+[2025-04-17 07:20:45] 🟡 Script started for store: Waasmunster
+[2025-04-17 07:20:45] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-17 07:20:46] ❌ Print failed for ID 183: The Fpdf writer requires FPDF as dependency but the class "\FPDF" couldn't be found.
+[2025-04-17 07:22:28] 🟡 Script started for store: Waasmunster
+[2025-04-17 07:22:28] 🔍 Found 1 unprinted tickets for store Waasmunster
+[2025-04-17 07:22:28] ❌ Print failed for ID 183: The Fpdf writer requires FPDF as dependency but the class "\FPDF" couldn't be found.
+[2025-04-17 07:22:29] 🟢 Script finished for store: Waasmunster
+[2025-04-17 07:26:27] 🟡 Script started for store: Waasmunster
+[2025-04-17 07:26:27] 🔍 Found 1 tickets to print.
+[2025-04-17 07:26:27] ❌ Error on ID 183: The Fpdf writer requires FPDF as dependency but the class "\FPDF" couldn't be found.
+[2025-04-17 07:26:41] 🟡 Script started for store: Waasmunster
+[2025-04-17 07:26:41] 🔍 Found 1 tickets to print.
+[2025-04-17 07:26:41] ❌ Error on ID 183: The Fpdf writer requires FPDF as dependency but the class "\FPDF" couldn't be found.
+[2025-04-17 07:26:41] 🟢 Script finished for store: Waasmunster
+[2025-04-17 07:27:16] 🟡 Script started for store: Waasmunster
+[2025-04-17 07:27:16] 🔍 Found 1 tickets to print.
+[2025-04-17 07:27:16] ❌ Error on ID 183: The Fpdf writer requires FPDF as dependency but the class "\FPDF" couldn't be found.
+[2025-04-17 07:27:16] 🟢 Script finished for store: Waasmunster
+[2025-04-17 07:33:21] 🟡 Script started for store: Waasmunster
+[2025-04-17 07:33:21] 🔍 Found 1 tickets to print.
+[2025-04-17 07:33:21] ❌ Error on ID 183: The Fpdf writer requires FPDF as dependency but the class "\FPDF" couldn't be found.
+[2025-04-17 07:33:43] 🟡 Script started for store: Waasmunster
+[2025-04-17 07:33:43] 🔍 Found 1 tickets to print.
+[2025-04-17 07:33:43] ❌ Error on ID 183: The Fpdf writer requires FPDF as dependency but the class "\FPDF" couldn't be found.
+[2025-04-17 07:33:43] 🟢 Script finished for store: Waasmunster
+[2025-04-17 07:34:43] 🟡 Script started for store: Waasmunster
+[2025-04-17 07:34:43] 🔍 Found 1 tickets to print.
+[2025-04-17 07:34:43] ❌ Error on ID 176: The Fpdf writer requires FPDF as dependency but the class "\FPDF" couldn't be found.
+[2025-04-17 07:34:43] 🟢 Script finished for store: Waasmunster
+[2025-04-17 07:38:26] 🟡 Script started for store: Waasmunster
+[2025-04-17 07:38:27] 🔍 Found 1 tickets to print.
+[2025-04-17 07:38:27] ❌ Error on ID 176: The Fpdf writer requires FPDF as dependency but the class "\FPDF" couldn't be found.
+[2025-04-17 07:38:27] 🟢 Script finished for store: Waasmunster
+[2025-04-17 07:38:59] 🟡 Script started for store: Waasmunster
+[2025-04-17 07:38:59] 🔍 Found 1 tickets to print.
+[2025-04-17 07:38:59] ❌ Error on ID 176: The Fpdf writer requires FPDF as dependency but the class "\FPDF" couldn't be found.
+[2025-04-17 07:38:59] 🟢 Script finished for store: Waasmunster
+[2025-04-17 07:39:08] 🟡 Script started for store: Waasmunster
+[2025-04-17 07:39:08] 🔍 Found 1 tickets to print.
+[2025-04-17 07:39:08] ❌ Error on ID 176: The Fpdf writer requires FPDF as dependency but the class "\FPDF" couldn't be found.
+[2025-04-17 07:39:08] 🟢 Script finished for store: Waasmunster
+[2025-04-17 07:41:31] 🟡 Script started for store: Waasmunster
+[2025-04-17 07:41:31] 🔍 Found 1 tickets to print.
+[2025-04-17 07:41:31] ❌ Error on ID 176: The Fpdf writer requires FPDF as dependency but the class "\FPDF" couldn't be found.
+[2025-04-17 07:41:31] 🟢 Script finished for store: Waasmunster
+[2025-04-17 07:41:55] 🟡 Script started for store: Waasmunster
+[2025-04-17 07:41:55] 🔍 Found 1 tickets to print.
+[2025-04-17 07:41:55] ❌ Error on ID 176: The Fpdf writer requires FPDF as dependency but the class "\FPDF" couldn't be found.
+[2025-04-17 07:41:55] 🟢 Script finished for store: Waasmunster
+[2025-04-17 07:43:18] 🟡 Script started for store: Waasmunster
+[2025-04-17 07:43:18] 🔍 Found 1 unprinted tickets.
+[2025-04-17 07:43:18] ❌ Error on ID 176: The Fpdf writer requires FPDF as dependency but the class "\FPDF" couldn't be found.
+[2025-04-17 07:43:18] 🟢 Script finished for store: Waasmunster
+[2025-04-17 07:46:56] 🟡 Starting print queue processor for store: Waasmunster
+[2025-04-17 07:46:56] 🔍 Found 1 unprinted tickets.
+[2025-04-17 07:46:56] ✅ Printed and updated ID 176
+[2025-04-17 07:46:56] 🟢 Finished processing queue for store: Waasmunster
+[2025-04-17 07:49:35] 🟡 Starting print queue processor for store: Waasmunster
+[2025-04-17 07:49:36] 🔍 Found 1 unprinted tickets.
+[2025-04-17 07:49:36] ✅ Printed and updated ID 176
+[2025-04-17 07:49:36] 🟢 Finished processing queue for store: Waasmunster
+[2025-04-17 07:55:26] 🟡 Starting print queue processor for store: Waasmunster
+[2025-04-17 07:55:27] 🔍 Found 1 unprinted tickets.
+[2025-04-17 07:55:28] ✅ Printed and updated ID 176
+[2025-04-17 07:55:28] 🟢 Finished processing queue for store: Waasmunster
+[2025-04-17 09:01:10] 🟡 Starting print queue processor for store: Waasmunster
+[2025-04-17 09:01:10] 🔍 Found 1 unprinted tickets.
+[2025-04-17 09:01:12] ✅ Printed and updated ID 176
+[2025-04-17 09:01:12] 🟢 Finished processing queue for store: Waasmunster
+[2025-04-17 09:01:54] 🟡 Starting print queue processor for store: Waasmunster
+[2025-04-17 09:01:54] 🔍 Found 1 unprinted tickets.
+[2025-04-17 09:01:55] ✅ Printed and updated ID 176
+[2025-04-17 09:01:55] 🟢 Finished processing queue for store: Waasmunster
+[2025-04-17 09:03:29] 🟡 Starting print queue processor for store: Waasmunster
+[2025-04-17 09:03:29] 🔍 Found 1 unprinted tickets.
+[2025-04-17 09:03:30] ✅ Printed and updated ID 176
+[2025-04-17 09:03:30] 🟢 Finished processing queue for store: Waasmunster
+[2025-04-17 09:07:01] 🟡 Starting print queue processor for store: Waasmunster
+[2025-04-17 09:07:01] 🔍 Found 1 unprinted tickets.
+[2025-04-17 09:07:02] ✅ Printed and updated ID 176
+[2025-04-17 09:07:02] 🟢 Finished processing queue for store: Waasmunster
+[2025-04-17 09:10:43] 🟡 Starting print queue processor for store: Waasmunster
+[2025-04-17 09:10:43] 🔍 Found 1 unprinted tickets.
+[2025-04-17 09:10:44] ✅ Printed and updated ID 176
+[2025-04-17 09:10:44] 🟢 Finished processing queue for store: Waasmunster
+[2025-04-17 09:18:58] 🟡 Starting print queue processor for store: Waasmunster
+[2025-04-17 09:18:58] 🔍 Found 0 unprinted tickets.
+[2025-04-17 09:18:58] 🟢 Finished processing queue for store: Waasmunster
+[2025-04-17 09:19:11] 🟡 Starting print queue processor for store: Waasmunster
+[2025-04-17 09:19:12] 🔍 Found 1 unprinted tickets.
+[2025-04-17 09:19:13] ✅ Printed and updated ID 176
+[2025-04-17 09:19:13] 🟢 Finished processing queue for store: Waasmunster
+[2025-04-17 09:23:10] 🟡 Starting print queue processor for store: Waasmunster
+[2025-04-17 09:23:10] 🔍 Found 1 unprinted tickets.
+[2025-04-17 09:23:11] ✅ Printed and updated ID 176
+[2025-04-17 09:23:11] 🟢 Finished processing queue for store: Waasmunster
+[2025-04-17 09:31:50] 🟡 Starting print queue processor for store: Waasmunster
+[2025-04-17 09:31:50] 🔍 Found 1 unprinted tickets.
+[2025-04-17 09:31:51] ✅ QR image preprocessed for ID 176
+[2025-04-17 09:31:52] ✅ Printed and updated ID 176
+[2025-04-17 09:31:52] 🟢 Finished processing queue for store: Waasmunster
+[2025-04-17 09:38:06] 🟡 Starting print queue processor for store: Waasmunster
+[2025-04-17 09:38:06] 🔍 Found 1 unprinted tickets.
+[2025-04-17 09:38:06] ✅ QR image preprocessed for ID 176
+[2025-04-17 09:38:07] ✅ Printed and updated ID 176
+[2025-04-17 09:38:07] 🟢 Finished processing queue for store: Waasmunster
+[2025-04-17 09:40:00] 🟡 Script started for store: Waasmunster
+[2025-04-17 09:40:01] 🔍 Found 1 tickets to print.
+[2025-04-17 09:40:02] 📥 Saved barcode to C:\KiemkrachtPrintAgent/foto/barcode_176.png
+[2025-04-17 09:40:02] 🖨️ Sent C:\KiemkrachtPrintAgent/foto/barcode_176.png to printer via Windows.
+[2025-04-17 09:40:02] ✅ DB updated for ID 176
+[2025-04-17 09:40:02] 🟢 Script finished for store: Waasmunster
+[2025-04-17 09:41:38] 🟡 Script started for store: Waasmunster
+[2025-04-17 09:41:38] 🔍 Found 0 tickets to print.
+[2025-04-17 09:41:38] 🟢 Script finished for store: Waasmunster
+[2025-04-17 09:41:46] 🟡 Script started for store: Waasmunster
+[2025-04-17 09:41:47] 🔍 Found 1 tickets to print.
+[2025-04-17 09:41:47] 📥 Saved barcode to C:\KiemkrachtPrintAgent/foto/barcode_176.png
+[2025-04-17 09:41:47] 🖨️ Sent C:\KiemkrachtPrintAgent/foto/barcode_176.png to printer via Windows.
+[2025-04-17 09:41:48] ✅ DB updated for ID 176
+[2025-04-17 09:41:48] 🟢 Script finished for store: Waasmunster
+[2025-04-17 09:44:41] 🟡 Script started for store: Waasmunster
+[2025-04-17 09:44:42] 🔍 Found 1 tickets to print.
+[2025-04-17 09:44:42] 📥 Saved barcode to C:\KiemkrachtPrintAgent/foto/barcode_176.png
+[2025-04-17 09:44:43] ✅ DB updated for ID 176
+[2025-04-17 09:44:43] 🟢 Script finished for store: Waasmunster
+[2025-04-17 09:47:59] 🟡 Script started for store: Waasmunster
+[2025-04-17 09:48:00] 🔍 Found 1 tickets to print.
+[2025-04-17 09:48:01] 📥 Saved barcode to C:\KiemkrachtPrintAgent/foto/barcode_176.png
+[2025-04-17 09:48:01] 🖨️ Sent C:\KiemkrachtPrintAgent/foto/barcode_176.png to printer via Windows print shell.
+[2025-04-17 09:48:01] ✅ DB updated for ID 176
+[2025-04-17 09:48:01] 🟢 Script finished for store: Waasmunster
+[2025-04-17 09:50:18] 🟡 Script started for store: Waasmunster
+[2025-04-17 09:50:18] 🔍 Found 1 tickets to print.
+[2025-04-17 09:50:19] 📥 Saved barcode to C:\KiemkrachtPrintAgent/foto/barcode_176.png
+[2025-04-17 09:50:19] 🖨️ Sent C:\KiemkrachtPrintAgent/foto/barcode_176.png to printer via Windows print shell.
+[2025-04-17 09:50:19] ✅ DB updated for ID 176
+[2025-04-17 09:50:19] 🟢 Script finished for store: Waasmunster
+[2025-04-17 09:52:33] 🟡 Script started for store: Waasmunster
+[2025-04-17 09:52:33] 🔍 Found 1 tickets to print.
+[2025-04-17 09:52:34] 📥 Saved QR code to C:\KiemkrachtPrintAgent/foto/qr_176.png
+[2025-04-17 09:52:34] 🖨️ Sent QR PNG to printer via Windows PrintTo.
+[2025-04-17 09:52:34] ✅ DB updated for ID 176
+[2025-04-17 09:52:34] 🟢 Script finished for store: Waasmunster
+[2025-04-17 09:57:55] 🟡 Script started for store: Waasmunster
+[2025-04-17 09:57:55] 🔍 Found 1 tickets to print.
+[2025-04-17 09:57:55] 📥 Saved QR PNG to C:\KiemkrachtPrintAgent/foto/qr_176.png
+[2025-04-17 09:57:56] ✅ Printed and updated ID 176
+[2025-04-17 09:57:56] 🟢 Script finished for store: Waasmunster
+[2025-04-17 09:58:27] 🟡 Script started for store: Waasmunster
+[2025-04-17 09:58:27] 🔍 Found 1 tickets to print.
+[2025-04-17 09:58:27] 📥 Saved QR PNG to C:\KiemkrachtPrintAgent/foto/qr_176.png
+[2025-04-17 09:58:28] ✅ Printed and updated ID 176
+[2025-04-17 09:58:28] 🟢 Script finished for store: Waasmunster
+[2025-04-17 10:03:47] 🟡 Script started for store: Waasmunster
+[2025-04-17 10:03:47] 🔍 Found 1 tickets to print.
+[2025-04-17 10:03:48] 📥 Saved QR PNG to C:\KiemkrachtPrintAgent/foto/qr_176.png
+[2025-04-17 10:03:49] ✅ Printed and updated ID 176
+[2025-04-17 10:03:49] 🟢 Script finished for store: Waasmunster
+[2025-04-17 10:14:18] 🟡 Script started for store: Waasmunster
+[2025-04-17 10:14:18] 🔍 Found 1 tickets to print.
+[2025-04-17 10:16:45] 🟡 Script started for store: Waasmunster
+[2025-04-17 10:16:45] 🔍 Found 1 tickets to print.
+[2025-04-17 10:16:47] ❌ Error on ID 176: Unable to generate image: check your GD installation
+[2025-04-17 10:16:47] 🟢 Script finished for store: Waasmunster
+[2025-04-17 10:17:29] 🟡 Script started for store: Waasmunster
+[2025-04-17 10:17:30] 🔍 Found 1 tickets to print.
+[2025-04-17 10:17:30] ❌ Error on ID 176: Unable to generate image: check your GD installation
+[2025-04-17 10:17:30] 🟢 Script finished for store: Waasmunster
+[2025-04-17 10:23:01] 🟡 Script started for store: Waasmunster
+[2025-04-17 10:23:01] 🔍 Found 1 tickets to print.
+[2025-04-17 10:23:01] 📥 Downloaded QR PNG from API to C:\KiemkrachtPrintAgent/foto/qr_176.png
+[2025-04-17 10:23:02] ✅ Printed and updated ID 176
+[2025-04-17 10:23:02] 🟢 Script finished for store: Waasmunster
+[2025-04-17 10:33:44] 🟡 Script started for store: Waasmunster
+[2025-04-17 10:33:44] 🔍 Found 1 tickets to print.
+[2025-04-17 10:33:44] 📥 Formatted and saved QR PNG to C:\KiemkrachtPrintAgent/foto/qr_176.png
+[2025-04-17 10:33:45] 🖼️ QR image sent to Windows printing.
+[2025-04-17 10:33:45] ✅ Printed and updated ID 176
+[2025-04-17 10:33:45] 🟢 Script finished for store: Waasmunster
+[2025-04-17 10:36:19] 🟡 Script started for store: Waasmunster
+[2025-04-17 10:36:20] 🔍 Found 1 tickets to print.
+[2025-04-17 10:36:20] 📥 Formatted and saved QR PNG to C:\KiemkrachtPrintAgent/foto/qr_176.png
+[2025-04-17 10:36:20] 🖼️ QR image sent to printer using mspaint.
+[2025-04-17 10:36:20] ✅ Printed and updated ID 176
+[2025-04-17 10:36:20] 🟢 Script finished for store: Waasmunster
+[2025-04-17 10:38:22] 🟡 Script started for store: Waasmunster
+[2025-04-17 10:38:22] 🔍 Found 1 tickets to print.
+[2025-04-17 10:38:22] 📥 Resized and saved QR PNG to C:\KiemkrachtPrintAgent/foto/qr_176.png
+[2025-04-17 10:38:22] 🖼️ QR image sent to printer using mspaint.
+[2025-04-17 10:38:23] ✅ Printed and updated ID 176
+[2025-04-17 10:38:23] 🟢 Script finished for store: Waasmunster
+[2025-04-17 10:38:43] 🟡 Script started for store: Waasmunster
+[2025-04-17 10:38:44] 🔍 Found 1 tickets to print.
+[2025-04-17 10:38:44] 📥 Resized and saved QR PNG to C:\KiemkrachtPrintAgent/foto/qr_176.png
+[2025-04-17 10:38:44] 🖼️ QR image sent to printer using mspaint.
+[2025-04-17 10:38:44] ✅ Printed and updated ID 176
+[2025-04-17 10:38:44] 🟢 Script finished for store: Waasmunster
+[2025-04-17 11:16:28] 🟡 Script started for store: Waasmunster
+[2025-04-17 11:16:28] 🔍 Found 1 tickets to print.
+[2025-04-17 11:16:29] 📥 Resized and saved QR PNG to C:\KiemkrachtPrintAgent/foto/qr_176.png
+[2025-04-17 11:16:29] 🖼️ QR image sent to printer using shimgvw.dll.
+[2025-04-17 11:16:29] ✅ Printed and updated ID 176
+[2025-04-17 11:16:29] 🟢 Script finished for store: Waasmunster
+[2025-04-17 11:19:50] 🟡 Script started for store: Waasmunster
+[2025-04-17 11:19:50] 🔍 Found 1 tickets to print.
+[2025-04-17 11:19:51] 📥 Resized and saved QR PNG to C:\KiemkrachtPrintAgent/foto/qr_176.png
+[2025-04-17 11:19:52] 🖼️ QR image sent to printer using minimized mspaint.
+[2025-04-17 11:19:52] ✅ Printed and updated ID 176
+[2025-04-17 11:19:52] 🟢 Script finished for store: Waasmunster
+[2025-04-17 11:22:02] 🟡 Script started for store: Waasmunster
+[2025-04-17 11:22:02] 🔍 Found 1 tickets to print.
+[2025-04-17 11:22:03] 📥 QR PNG saved to C:\KiemkrachtPrintAgent/foto/qr_176.png
+[2025-04-17 11:22:03] 🖼️ QR image sent to printer using minimized mspaint.
+[2025-04-17 11:22:03] ✅ Printed and updated ID 176
+[2025-04-17 11:22:03] 🟢 Script finished for store: Waasmunster
+[2025-04-17 11:25:32] 🟡 Script started for store: Waasmunster
+[2025-04-17 11:25:32] 🔍 Found 2 tickets to print.
+[2025-04-17 11:25:33] 📥 QR PNG saved to C:\KiemkrachtPrintAgent/foto/qr_176.png
+[2025-04-17 11:25:33] 🖼️ QR image sent to printer using minimized mspaint.
+[2025-04-17 11:25:33] ✅ Printed and updated ID 176
+[2025-04-17 11:25:33] 📥 QR PNG saved to C:\KiemkrachtPrintAgent/foto/qr_177.png
+[2025-04-17 11:25:33] 🖼️ QR image sent to printer using minimized mspaint.
+[2025-04-17 11:25:33] ✅ Printed and updated ID 177
+[2025-04-17 11:25:33] 🟢 Script finished for store: Waasmunster
+[2025-04-17 11:28:31] 🟡 Script started for store: Waasmunster
+[2025-04-17 11:28:31] 🔍 Found 2 tickets to print.
+[2025-04-17 11:28:31] 📥 QR PNG saved to C:\KiemkrachtPrintAgent/foto/qr_176.png
+[2025-04-17 11:28:32] 🖼️ QR image printed for ID 176
+[2025-04-17 11:28:32] ✅ Printed and updated ID 176
+[2025-04-17 11:28:32] 📥 QR PNG saved to C:\KiemkrachtPrintAgent/foto/qr_177.png
+[2025-04-17 11:28:32] 🖼️ QR image printed for ID 177
+[2025-04-17 11:28:32] ✅ Printed and updated ID 177
+[2025-04-17 11:28:32] 🟢 Script finished for store: Waasmunster
+[2025-04-17 11:31:10] 🟡 Script started for store: Waasmunster
+[2025-04-17 11:31:10] 🔍 Found 2 tickets to print.
+[2025-04-17 11:31:11] 📥 QR PNG saved to C:\KiemkrachtPrintAgent/foto/qr_176.png
+[2025-04-17 11:31:17] 🖼️ QR image printed for ID 176
+[2025-04-17 11:31:17] ✅ Printed and updated ID 176
+[2025-04-17 11:31:18] 📥 QR PNG saved to C:\KiemkrachtPrintAgent/foto/qr_177.png
+[2025-04-17 11:31:23] 🖼️ QR image printed for ID 177
+[2025-04-17 11:31:23] ✅ Printed and updated ID 177
+[2025-04-17 11:31:23] 🟢 Script finished for store: Waasmunster
+[2025-04-17 11:33:56] 🟡 Script started for store: Waasmunster
+[2025-04-17 11:33:57] 🔍 Found 1 tickets to print.
+[2025-04-17 11:33:57] 📥 QR PNG saved to C:\KiemkrachtPrintAgent/foto/qr_176.png
+[2025-04-17 11:33:58] 🖼️ QR image printed for ID 176
+[2025-04-17 11:33:58] ✅ Printed and updated ID 176
+[2025-04-17 11:33:58] 🟢 Script finished for store: Waasmunster
+[2025-04-17 13:45:18] 🟡 Script started for store: Waasmunster
+[2025-04-17 13:45:18] 🔍 Found 0 tickets to print.
+[2025-04-17 13:45:18] 🟢 Script finished for store: Waasmunster
+[2025-04-17 13:45:26] 🟡 Script started for store: Waasmunster
+[2025-04-17 13:45:26] 🔍 Found 0 tickets to print.
+[2025-04-17 13:45:26] 🟢 Script finished for store: Waasmunster
+[2025-04-17 13:45:29] 🟡 Script started for store: Waasmunster
+[2025-04-17 13:45:29] 🔍 Found 0 tickets to print.
+[2025-04-17 13:45:29] 🟢 Script finished for store: Waasmunster
+[2025-04-17 13:46:59] 🟡 Script started for store: Waasmunster
+[2025-04-17 13:46:59] 🔍 Found 1 tickets to print.
+[2025-04-17 13:47:04] 📄 PDF created: C:\KiemkrachtPrintAgent/foto/ticket_176.pdf
+[2025-04-17 13:47:04] 🖨️ Sent to printer: C:\KiemkrachtPrintAgent\foto\ticket_176.pdf
+[2025-04-17 13:47:04] ✅ Printed and updated ID 176
+[2025-04-17 13:47:04] 🟢 Script finished for store: Waasmunster
+[2025-04-17 13:50:45] 🟡 Script started for store: Waasmunster
+[2025-04-17 13:50:45] 🔍 Found 1 tickets to print.
+[2025-04-17 13:50:46] 📄 PDF created: C:\KiemkrachtPrintAgent/foto/ticket_176.pdf
+[2025-04-17 13:50:46] 🖨️ Sent to printer: C:\KiemkrachtPrintAgent\foto\ticket_176.pdf
+[2025-04-17 13:50:46] ✅ Printed and updated ID 176
+[2025-04-17 13:50:46] 🟢 Script finished for store: Waasmunster
+[2025-04-17 13:53:34] 🟡 Script started for store: Waasmunster
+[2025-04-17 13:53:34] 🔍 Found 1 tickets to print.
+[2025-04-17 13:53:35] 📄 PDF created: C:\KiemkrachtPrintAgent/foto/ticket_176.pdf
+[2025-04-17 13:53:35] 🖨️ Sent to printer: C:\KiemkrachtPrintAgent\foto\ticket_176.pdf
+[2025-04-17 13:53:35] ✅ Printed and updated ID 176
+[2025-04-17 13:53:35] 🟢 Script finished for store: Waasmunster
+[2025-04-18 09:02:35] 🟡 Script started for store: Waasmunster
+[2025-04-18 09:02:35] 🔍 Found 1 tickets to print.
+[2025-04-18 09:02:40] 📄 PDF created: C:\pdf versie\KiemkrachtPrintAgent/foto/ticket_176.pdf
+[2025-04-18 09:02:40] 🖨️ Sent to printer: C:\pdf versie\KiemkrachtPrintAgent\foto\ticket_176.pdf
+[2025-04-18 09:02:40] ✅ Printed and updated ID 176
+[2025-04-18 09:02:40] 🟢 Script finished for store: Waasmunster
+[2025-04-18 09:05:22] 🟡 Script started for store: Waasmunster
+[2025-04-18 09:05:22] 🔍 Found 0 tickets to print.
+[2025-04-18 09:05:22] 🟢 Script finished for store: Waasmunster
+[2025-04-18 09:05:39] 🟡 Script started for store: Waasmunster
+[2025-04-18 09:05:39] 🔍 Found 1 tickets to print.
+[2025-04-18 09:05:40] 📄 PDF created: C:\pdf versie\KiemkrachtPrintAgent/foto/ticket_177.pdf
+[2025-04-18 09:05:41] 🖨️ Sent to printer: C:\pdf versie\KiemkrachtPrintAgent\foto\ticket_177.pdf
+[2025-04-18 09:05:41] ✅ Printed and updated ID 177
+[2025-04-18 09:05:41] 🟢 Script finished for store: Waasmunster
+[2025-04-18 14:21:58] 🟡 Script started for store: Waasmunster
+[2025-04-18 14:21:58] 🔍 Found 1 tickets to print.
+[2025-04-18 14:21:59] 📄 PDF created: C:\pdf versie\KiemkrachtPrintAgent/foto/ticket_176.pdf
+[2025-04-18 14:21:59] 🖨️ Sent to printer: C:\pdf versie\KiemkrachtPrintAgent\foto\ticket_176.pdf
+[2025-04-18 14:21:59] ✅ Printed and updated ID 176
+[2025-04-18 14:21:59] 🟢 Script finished for store: Waasmunster
+[2025-04-18 14:27:35] 🟡 Script started for store: Waasmunster
+[2025-04-18 14:27:35] 🔍 Found 1 ticket(s) to print.
+[2025-04-18 14:27:42] 📄 PDF created: C:\pdf versie\KiemkrachtPrintAgent/foto/ticket_176.pdf
+[2025-04-18 14:27:42] 🖨️ Sent to printer: C:\pdf versie\KiemkrachtPrintAgent\foto\ticket_176.pdf
+[2025-04-18 14:27:42] ✅ Printed and updated ID 176
+[2025-04-18 14:27:42] 🟢 Script finished for store: Waasmunster
+[2025-04-18 14:28:27] 🟡 Script started for store: Waasmunster
+[2025-04-18 14:28:27] 🔍 Found 0 ticket(s) to print.
+[2025-04-18 14:28:27] 🟢 Script finished for store: Waasmunster
+[2025-04-18 14:28:44] 🟡 Script started for store: Waasmunster
+[2025-04-18 14:28:44] 🔍 Found 1 ticket(s) to print.
+[2025-04-18 14:28:47] 📄 PDF created: C:\pdf versie\KiemkrachtPrintAgent/foto/ticket_176.pdf
+[2025-04-18 14:28:48] 🖨️ Sent to printer: C:\pdf versie\KiemkrachtPrintAgent\foto\ticket_176.pdf
+[2025-04-18 14:28:48] ✅ Printed and updated ID 176
+[2025-04-18 14:28:48] 🟢 Script finished for store: Waasmunster
+[2025-04-18 14:30:39] 🟡 Script started for store: Waasmunster
+[2025-04-18 14:33:12] 🟡 Script started for store: Waasmunster
+[2025-04-18 14:33:12] 🔍 Found 1 ticket(s) to print.
+[2025-04-18 14:33:15] 📄 PDF created: C:\pdf versie\KiemkrachtPrintAgent/foto/ticket_176.pdf
+[2025-04-18 14:33:16] 🖨️ Sent to printer: C:\pdf versie\KiemkrachtPrintAgent\foto\ticket_176.pdf
+[2025-04-18 14:33:16] ✅ Printed and updated ID 176
+[2025-04-18 14:33:16] 🟢 Script finished for store: Waasmunster
+[2025-04-18 14:37:04] 🟡 Script started for store: Waasmunster
+[2025-04-18 14:37:04] 🔍 Found 1 ticket(s) to print.
+[2025-04-18 14:37:08] 📄 PDF created: C:\pdf versie\KiemkrachtPrintAgent/foto/ticket_176.pdf
+[2025-04-18 14:37:08] 🖨️ Sent to printer: C:\pdf versie\KiemkrachtPrintAgent\foto\ticket_176.pdf
+[2025-04-18 14:37:08] ✅ Printed and updated ID 176
+[2025-04-18 14:37:08] 🟢 Script finished for store: Waasmunster
+[2025-04-18 14:39:32] 🟡 TEST SCRIPT started for store: Waasmunster
+[2025-04-18 14:39:32] 🔍 Found 1 ticket(s) to PREVIEW.
+[2025-04-18 14:39:41] 👁️ PDF preview created: C:\pdf versie\KiemkrachtPrintAgent/foto/test_ticket_176.pdf
+[2025-04-18 14:39:41] ✅ PREVIEW finished for store: Waasmunster
+[2025-04-18 14:41:28] 🟡 PRINT TEST (no DB update) started for store: Waasmunster
+[2025-04-18 14:41:28] 🔍 Found 1 ticket(s) to PRINT (no DB update).
+[2025-04-18 14:41:31] 📄 PDF created: C:\pdf versie\KiemkrachtPrintAgent/foto/ticket_176.pdf
+[2025-04-18 14:41:31] 🖨️ Sent to printer: C:\pdf versie\KiemkrachtPrintAgent\foto\ticket_176.pdf
+[2025-04-18 14:41:31] ⏭️ Skipped DB update for ID 176
+[2025-04-18 14:41:31] ✅ TEST PRINT finished for store: Waasmunster
+[2025-04-18 14:46:30] 🟡 PRINT TEST (no DB update) started for store: Waasmunster
+[2025-04-18 14:46:30] 🔍 Found 2 ticket(s) to PRINT (no DB update).
+[2025-04-18 14:46:32] 📄 PDF created: C:\pdf versie\KiemkrachtPrintAgent/foto/ticket_174.pdf
+[2025-04-18 14:46:32] 🖨️ Sent to printer: C:\pdf versie\KiemkrachtPrintAgent\foto\ticket_174.pdf
+[2025-04-18 14:46:32] ⏭️ Skipped DB update for ID 174
+[2025-04-18 14:46:33] 📄 PDF created: C:\pdf versie\KiemkrachtPrintAgent/foto/ticket_176.pdf
+[2025-04-18 14:46:33] 🖨️ Sent to printer: C:\pdf versie\KiemkrachtPrintAgent\foto\ticket_176.pdf
+[2025-04-18 14:46:33] ⏭️ Skipped DB update for ID 176
+[2025-04-18 14:46:33] ✅ TEST PRINT finished for store: Waasmunster
+[2025-04-18 14:49:18] 🟡 PRINT TEST (no DB update) started for store: Waasmunster
+[2025-04-18 14:49:19] 🔍 Found 2 ticket(s) to PRINT (no DB update).
+[2025-04-18 14:49:20] 📄 PDF created: C:\pdf versie\KiemkrachtPrintAgent/foto/ticket_174.pdf
+[2025-04-18 14:49:20] 🖨️ Sent to printer: C:\pdf versie\KiemkrachtPrintAgent\foto\ticket_174.pdf
+[2025-04-18 14:49:20] ⏭️ Skipped DB update for ID 174
+[2025-04-18 14:49:20] 📄 PDF created: C:\pdf versie\KiemkrachtPrintAgent/foto/ticket_176.pdf
+[2025-04-18 14:49:20] 🖨️ Sent to printer: C:\pdf versie\KiemkrachtPrintAgent\foto\ticket_176.pdf
+[2025-04-18 14:49:20] ⏭️ Skipped DB update for ID 176
+[2025-04-18 14:49:20] ✅ TEST PRINT finished for store: Waasmunster
+[2025-04-18 14:50:36] 🟡 PRINT TEST (no DB update) started for store: Waasmunster
+[2025-04-18 14:50:36] 🔍 Found 1 ticket(s) to PRINT (no DB update).
+[2025-04-18 14:50:37] 📄 PDF created: C:\pdf versie\KiemkrachtPrintAgent/foto/ticket_176.pdf
+[2025-04-18 14:50:37] 🖨️ Sent to printer: C:\pdf versie\KiemkrachtPrintAgent\foto\ticket_176.pdf
+[2025-04-18 14:50:37] ⏭️ Skipped DB update for ID 176
+[2025-04-18 14:50:37] ✅ TEST PRINT finished for store: Waasmunster
+[2025-04-18 14:50:46] 🟡 PRINT TEST (no DB update) started for store: Waasmunster
+[2025-04-18 14:50:46] 🔍 Found 1 ticket(s) to PRINT (no DB update).
+[2025-04-18 14:50:47] 📄 PDF created: C:\pdf versie\KiemkrachtPrintAgent/foto/ticket_176.pdf
+[2025-04-18 14:50:47] 🖨️ Sent to printer: C:\pdf versie\KiemkrachtPrintAgent\foto\ticket_176.pdf
+[2025-04-18 14:50:47] ⏭️ Skipped DB update for ID 176
+[2025-04-18 14:50:47] ✅ TEST PRINT finished for store: Waasmunster
+[2025-04-18 14:53:22] 🟡 PRINT TEST (no DB update) started for store: Waasmunster
+[2025-04-18 14:53:22] 🔍 Found 1 ticket(s) to PRINT (no DB update).
+[2025-04-18 14:53:29] 📄 PDF created: C:\pdf versie\KiemkrachtPrintAgent/foto/ticket_176.pdf
+[2025-04-18 14:53:29] 🖨️ Sent to printer: C:\pdf versie\KiemkrachtPrintAgent\foto\ticket_176.pdf
+[2025-04-18 14:53:29] ⏭️ Skipped DB update for ID 176
+[2025-04-18 14:53:29] ✅ TEST PRINT finished for store: Waasmunster
+[2025-04-18 14:55:23] 🟡 PRINT TEST (no DB update) started for store: Waasmunster
+[2025-04-18 14:55:24] 🔍 Found 1 ticket(s) to PRINT (no DB update).
+[2025-04-18 14:55:27] 📄 PDF created: C:\pdf versie\KiemkrachtPrintAgent/foto/ticket_176.pdf
+[2025-04-18 14:55:27] 🖨️ Sent to printer: C:\pdf versie\KiemkrachtPrintAgent\foto\ticket_176.pdf
+[2025-04-18 14:55:27] ⏭️ Skipped DB update for ID 176
+[2025-04-18 14:55:27] ✅ TEST PRINT finished for store: Waasmunster
+
+[2025-04-18 14:58:39] 🟡 PRINT STARTED for store: Waasmunster
+[2025-04-18 14:58:39] 🔍 Found 3 ticket(s) to print.
+[2025-04-18 14:58:42] 📄 PDF created: C:\pdf versie\KiemkrachtPrintAgent/foto/ticket_174.pdf
+[2025-04-18 14:58:42] 🖨️ Sent to printer: C:\pdf versie\KiemkrachtPrintAgent\foto\ticket_174.pdf
+[2025-04-18 14:58:44] 🗑️ Deleted PDF: C:\pdf versie\KiemkrachtPrintAgent/foto/ticket_174.pdf
+[2025-04-18 14:58:44] ✅ Printed and updated ID 174
+[2025-04-18 14:58:47] 📄 PDF created: C:\pdf versie\KiemkrachtPrintAgent/foto/ticket_175.pdf
+[2025-04-18 14:58:47] 🖨️ Sent to printer: C:\pdf versie\KiemkrachtPrintAgent\foto\ticket_175.pdf
+[2025-04-18 14:58:49] 🗑️ Deleted PDF: C:\pdf versie\KiemkrachtPrintAgent/foto/ticket_175.pdf
+[2025-04-18 14:58:49] ✅ Printed and updated ID 175
+[2025-04-18 14:58:52] 📄 PDF created: C:\pdf versie\KiemkrachtPrintAgent/foto/ticket_176.pdf
+[2025-04-18 14:58:52] 🖨️ Sent to printer: C:\pdf versie\KiemkrachtPrintAgent\foto\ticket_176.pdf
+[2025-04-18 14:58:54] 🗑️ Deleted PDF: C:\pdf versie\KiemkrachtPrintAgent/foto/ticket_176.pdf
+[2025-04-18 14:58:54] ✅ Printed and updated ID 176
+[2025-04-18 14:58:54] ✅ PRINT FINISHED for store: Waasmunster
+[2025-04-22 11:25:41] 🟡 PRINT STARTED for store: Waasmunster
+[2025-04-22 11:25:41] 🔍 Found 0 ticket(s) to print.
+[2025-04-22 11:25:41] ✅ PRINT FINISHED for store: Waasmunster
+[2025-04-22 11:26:12] 🟡 PRINT STARTED for store: Waasmunster
+[2025-04-22 11:26:12] 🔍 Found 0 ticket(s) to print.
+[2025-04-22 11:26:12] ✅ PRINT FINISHED for store: Waasmunster
+[2025-04-22 11:26:42] 🟡 PRINT STARTED for store: Waasmunster
+[2025-04-22 11:26:42] 🔍 Found 0 ticket(s) to print.
+[2025-04-22 11:26:42] ✅ PRINT FINISHED for store: Waasmunster
+[2025-04-22 11:27:13] 🟡 PRINT STARTED for store: Waasmunster
+[2025-04-22 11:27:13] 🔍 Found 0 ticket(s) to print.
+[2025-04-22 11:27:13] ✅ PRINT FINISHED for store: Waasmunster
+[2025-04-22 11:27:44] 🟡 PRINT STARTED for store: Waasmunster
+[2025-04-22 11:27:44] 🔍 Found 0 ticket(s) to print.
+[2025-04-22 11:27:44] ✅ PRINT FINISHED for store: Waasmunster
+[2025-04-22 11:28:15] 🟡 PRINT STARTED for store: Waasmunster
+[2025-04-22 11:28:15] 🔍 Found 0 ticket(s) to print.
+[2025-04-22 11:28:15] ✅ PRINT FINISHED for store: Waasmunster
+[2025-04-22 11:28:45] 🟡 PRINT STARTED for store: Waasmunster
+[2025-04-22 11:28:45] 🔍 Found 0 ticket(s) to print.
+[2025-04-22 11:28:45] ✅ PRINT FINISHED for store: Waasmunster
+[2025-04-22 11:29:16] 🟡 PRINT STARTED for store: Waasmunster
+[2025-04-22 11:29:16] 🔍 Found 0 ticket(s) to print.
+[2025-04-22 11:29:16] ✅ PRINT FINISHED for store: Waasmunster
+[2025-04-22 11:29:46] 🟡 PRINT STARTED for store: Waasmunster
+[2025-04-22 11:29:47] 🔍 Found 0 ticket(s) to print.
+[2025-04-22 11:29:47] ✅ PRINT FINISHED for store: Waasmunster
+[2025-04-22 11:30:17] 🟡 PRINT STARTED for store: Waasmunster
+[2025-04-22 11:30:17] 🔍 Found 0 ticket(s) to print.
+[2025-04-22 11:30:17] ✅ PRINT FINISHED for store: Waasmunster
+[2025-04-22 11:30:48] 🟡 PRINT STARTED for store: Waasmunster
+[2025-04-22 11:30:48] 🔍 Found 0 ticket(s) to print.
+[2025-04-22 11:30:48] ✅ PRINT FINISHED for store: Waasmunster
+[2025-04-22 11:31:18] 🟡 PRINT STARTED for store: Waasmunster
+[2025-04-22 11:31:19] 🔍 Found 0 ticket(s) to print.
+[2025-04-22 11:31:19] ✅ PRINT FINISHED for store: Waasmunster
+[2025-04-22 11:31:49] 🟡 PRINT STARTED for store: Waasmunster
+[2025-04-22 11:31:49] 🔍 Found 0 ticket(s) to print.
+[2025-04-22 11:31:49] ✅ PRINT FINISHED for store: Waasmunster
+[2025-04-22 11:32:22] 🟡 PRINT STARTED for store: Waasmunster
+[2025-04-22 11:32:22] 🔍 Found 0 ticket(s) to print.
+[2025-04-22 11:32:22] ✅ PRINT FINISHED for store: Waasmunster
