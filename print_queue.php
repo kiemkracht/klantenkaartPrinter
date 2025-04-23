@@ -6,7 +6,7 @@ use Dompdf\Dompdf;
 use Dompdf\Options;
 
 // === CONFIGURATION ===
-$apiUrl = 'https://yourserver.com/api.php'; // hierkomt het de naam van de api
+$apiUrl = 'https://www.kiemkracht.org/api.php';; // hierkomt het de naam van de api
 $apiKey = 'abc123'; // hier komt de api key voor elke unieke kassa 
 $queueName = 'Waasmunster'; // hier komt de naam van de winkel
 

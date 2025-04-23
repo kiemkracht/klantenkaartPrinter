@@ -642,3 +642,10 @@
 [2025-04-22 11:32:22] 🟡 PRINT STARTED for store: Waasmunster
 [2025-04-22 11:32:22] 🔍 Found 0 ticket(s) to print.
 [2025-04-22 11:32:22] ✅ PRINT FINISHED for store: Waasmunster
+[2025-04-23 08:33:17] ℹ️ No tickets to print for Waasmunster.
+[2025-04-23 08:33:44] ℹ️ No tickets to print for Waasmunster.
+[2025-04-23 08:36:08] 📄 PDF created for ticket ID 176
+[2025-04-23 08:36:08] 🖨️ Sent to printer: C:\pdf versie\KiemkrachtPrintAgent\klantenkaartPrinter\foto\ticket_176.pdf
+[2025-04-23 08:36:10] 🗑️ Deleted PDF for ticket ID 176
+[2025-04-23 08:36:11] ✅ Marked ticket ID 176 as printed
+[2025-04-23 08:36:11] ✅ PRINT FINISHED for Waasmunster
